@@ -1,19 +1,19 @@
 <h1 align="center">Good Day, I'm Denise Harton Brazier 🤓</h1>
 <h3 align="center">A passionate and enthusiastic Full-Stack Web Developer from California</h3>
 
-- 👩🏽‍💻I’m currently working on [Mooovin(Move In)](https://msdeniseb.github.io/MoooVin/home.html)
+- 👩🏽‍💻I’m currently working on **[Mooovin(Move In)](https://msdeniseb.github.io/MoooVin/home.html)**
 
 - 💬 Ask me about **Any of my work**
 
-- 💻 All of my projects are available at [Portfolio Site](https://msdeniseb.github.io/portfolio-website/index.html)
+- 💻 All of my projects are available at **[Portfolio Site](https://msdeniseb.github.io/portfolio-website/index.html)**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1tg7S1KGXw4ICj76TktN4TkockFCt7cLpYf6vTfLPuOo/edit?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1tg7S1KGXw4ICj76TktN4TkockFCt7cLpYf6vTfLPuOo/edit?usp=sharing)**
 
-- ⚡ Fun fact [Dad jokes are great for team moral](Dad jokes are great for team moral)
+- ⚡ Fun fact: **Dad jokes are great for team moral**
 
-- 📨 My Email **denisehartonb@gmail.com**
+- 📨 My Email **DeniseHartonB@gmail.com**
 
-- 📟 My Discord Username **ProDen#9328**
+- 📟 My Discord Username: **ProDen#9328**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
